@@ -13,5 +13,5 @@ This repository contains a Python script (`server100.py`) that automates the res
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/itsyosefali/frappe_script_site.git
+   cd frappe_script_site
